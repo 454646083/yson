@@ -1,0 +1,61 @@
+{
+	"one":[{
+			"title":"神奇动物：格林德沃之罪",
+			"url":"src/assets/images/carlist1.jpg",
+			"score":"7.8",
+			"Starring":"主演: 埃迪·雷德梅恩,凯瑟琳·沃特森,艾莉森·萨多尔",
+			"About":"今天185家影院放映2695场"
+			},
+			{
+			"title":"无名之辈",
+			"url":"src/assets/images/carlist2.jpg",
+			"score":"9.2",
+			"Starring":"主演: 陈建斌,任素汐,潘斌龙",
+			"About":"今天180家影院放映1423场"
+			},
+			{
+			"title":"无敌破坏王2：大闹互联网",
+			"url":"src/assets/images/carlist3.jpg",
+			"score":"9.2",
+			"Starring":"主演: 约翰·C·赖利,萨拉·西尔弗曼,克里斯汀·贝尔",
+			"About":"2018-11-23 本周五上映"
+			},
+			{
+			"title":"憨豆特工3",
+			"url":"src/assets/images/carlist4.png",
+			"score":"9.2",
+			"Starring":"主演: 罗温·艾金森,本·米勒,欧嘉·柯瑞兰寇",
+			"About":"2018-11-23 本周五上映"
+			},
+			{
+			"title":"中国蓝盔",
+			"url":"src/assets/images/carlist5.jpg",
+			"score":"9.2",
+			"Starring":"主演: 约翰·C·赖利,萨拉·西尔弗曼,克里斯汀·贝尔",
+			"About":"2018-11-23 本周五上映"
+			},
+			{
+			"title":"名侦探柯南：零的执行人",
+			"url":"src/assets/images/carlist6.jpg",
+			"score":"8.5",
+			"Starring":"主演: 高山南,山口胜平,山崎和佳奈",
+			"About":"今天113家影院放映234场"
+			}    
+],
+"two":[{
+            "title":"中国蓝盔",
+			"url":"src/assets/images/carlist5.jpg",
+			"score":"9.2",
+			"Starring":"主演: 约翰·C·赖利,萨拉·西尔弗曼,克里斯汀·贝尔",
+			"About":"2018-11-23 本周五上映"
+			},
+			{
+			"title":"名侦探柯南：零的执行人",
+			"url":"src/assets/images/carlist6.jpg",
+			"score":"8.5",
+			"Starring":"主演: 高山南,山口胜平,山崎和佳奈",
+			"About":"今天113家影院放映234场"
+			}  
+
+]
+}
